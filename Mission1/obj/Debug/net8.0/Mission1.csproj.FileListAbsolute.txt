@@ -1,0 +1,14 @@
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/bin/Debug/net8.0/Mission1
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/bin/Debug/net8.0/Mission1.deps.json
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/bin/Debug/net8.0/Mission1.runtimeconfig.json
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/bin/Debug/net8.0/Mission1.dll
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/bin/Debug/net8.0/Mission1.pdb
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.AssemblyInfoInputs.cache
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.AssemblyInfo.cs
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.csproj.CoreCompileInputs.cache
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.dll
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/refint/Mission1.dll
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.pdb
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.genruntimeconfig.cache
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/ref/Mission1.dll
