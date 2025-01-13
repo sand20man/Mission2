@@ -15,10 +15,10 @@ namespace Mission1
 
             for (int i = 1; i < numberOfRolls; i++)
             {
-                int diceRollone = random.Next(1, 7);
-                int diceRolltwo = random.Next(1, 7);
-                int diceRoll = diceRollone + diceRolltwo;
-                RollNum[diceRoll - 1]++;
+                int diceRollone = random.Next(1, 7); //Dice one roll
+                int diceRolltwo = random.Next(1, 7); //Dice two roll
+                int diceRoll = diceRollone + diceRolltwo; //Combination of die
+                RollNum[diceRoll - 1]++; //Recording the combined number
             }
         }
     }
