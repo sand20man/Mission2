@@ -6,7 +6,7 @@ namespace Mission1
 
         public static void Roll(int numberOfRolls)
         {
-            RollNum = new int[12]; // 6 sides on a die
+            RollNum = new int[11]; // 6 sides on 2 die
             SimulateRolls(numberOfRolls);
         }
 
@@ -16,7 +16,7 @@ namespace Mission1
 
             for (int i = 0; i < numberOfRolls; i++)
             {
-                int diceRoll = random.Next(1, 13); // Generate a random number between 1 and 6
+                int diceRoll = random.Next(2, 13); // Generate a random number between 1 and 6
                 RollNum[diceRoll - 1]++; // Increment the corresponding index (1 maps to index 0)
             }
         }
