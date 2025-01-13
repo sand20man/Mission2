@@ -12,3 +12,4 @@
 /Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.pdb
 /Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.genruntimeconfig.cache
 /Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/ref/Mission1.dll
+/Users/colemansandy/Desktop/BYU/Junior Core/413/Mission1/Mission1/obj/Debug/net8.0/Mission1.sourcelink.json
