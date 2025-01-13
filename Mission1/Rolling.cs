@@ -2,11 +2,10 @@ namespace Mission1
 {
     internal class Rolling
     {
-        public static int[] RollNum { get; private set; } // Public property to access roll counts
-
+        public static int[] RollNum { get; private set; } 
         public static void Roll(int numberOfRolls)
         {
-            RollNum = new int[11]; // 6 sides on 2 die
+            RollNum = new int[12]; // 6 sides on 2 die
             SimulateRolls(numberOfRolls);
         }
 
@@ -14,10 +13,12 @@ namespace Mission1
         {
             var random = new Random();
 
-            for (int i = 0; i < numberOfRolls; i++)
+            for (int i = 1; i < numberOfRolls; i++)
             {
-                int diceRoll = random.Next(2, 13); // Generate a random number between 1 and 6
-                RollNum[diceRoll - 1]++; // Increment the corresponding index (1 maps to index 0)
+                int diceRollone = random.Next(1, 7);
+                int diceRolltwo = random.Next(1, 7);
+                int diceRoll = diceRollone + diceRolltwo;
+                RollNum[diceRoll - 1]++;
             }
         }
     }

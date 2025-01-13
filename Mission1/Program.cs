@@ -18,7 +18,7 @@ internal class Program
         Console.WriteLine("Each \"*\" represents 1% of the total number of rolls.");
         Console.WriteLine($"Total number of rolls = {numberOfRolls}");
         
-        for (int i = 0; i < Rolling.RollNum.Length; i++)
+        for (int i = 1; i < Rolling.RollNum.Length; i++)
         {
             int percentage = (int)((double)Rolling.RollNum[i] / numberOfRolls * 100);
             Console.WriteLine($"{i + 1}: {new string('*', percentage)} ({percentage}%)");
