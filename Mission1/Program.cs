@@ -10,7 +10,7 @@ internal class Program
         Console.WriteLine("Welcome to the dice throwing simulator!");
         Console.WriteLine("How many dice rolls would you like to simulate?");
         
-        int numberOfRolls = int.Parse(Console.ReadLine()); //User input of desired rolls
+        int numberOfRolls = int.Parse(Console.ReadLine()!); //User input of desired rolls
         Rolling.Roll(numberOfRolls); //Rolling Dice
 
         

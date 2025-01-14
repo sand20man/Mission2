@@ -2,7 +2,8 @@ namespace Mission1
 {
     internal class Rolling
     {
-        public static int[] RollNum { get; private set; } 
+        public static int[] RollNum { get; private set; } = null!;
+
         public static void Roll(int numberOfRolls)
         {
             RollNum = new int[12]; // 6 sides on 2 die
