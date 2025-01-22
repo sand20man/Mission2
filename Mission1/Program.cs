@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using System.Diagnostics.CodeAnalysis;
-using Mission1;
+namespace Mission1;
 
 internal class Program
 {
